@@ -1,0 +1,18 @@
+{
+  "uuid": "6982333f-be15-48f7-9042-fd80740d859e",
+  "shortName": "UlmBus",
+  "longName": "UlmBus",
+  "capabilities" : [ "location" ],
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

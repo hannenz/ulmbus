@@ -1,0 +1,679 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"respon",
+				"responseText"
+			],
+			[
+				"KEY_ROU",
+				"KEY_ROUTE_LONG_NAME"
+			],
+			[
+				"APP_",
+				"APP_LOG_LEVEL_DEBUG"
+			],
+			[
+				"APP",
+				"APP_LOG"
+			],
+			[
+				"KEY_",
+				"KEY_DEPARTURE_TIMESTAMP"
+			],
+			[
+				"KEY_ROUTE_",
+				"KEY_ROUTE_SHORT_NAME"
+			],
+			[
+				"layer_get_",
+				"layer_get_bounds"
+			],
+			[
+				"LAB",
+				"LABOR_DATA"
+			],
+			[
+				"avg_inten",
+				"avg_intensity"
+			],
+			[
+				"window_st",
+				"window_stack_pop"
+			],
+			[
+				"inverted_",
+				"inverter_layer_destroy"
+			],
+			[
+				"AVG_IN",
+				"AVG_INTENSITY"
+			],
+			[
+				"FONT_KEY",
+				"FONT_KEY_GOTHIC_18"
+			],
+			[
+				"AVG_",
+				"AVG_INTERVAL"
+			],
+			[
+				"HEAD",
+				"HEADER_2"
+			],
+			[
+				"HE",
+				"HEADER_1"
+			],
+			[
+				"GCol",
+				"GColorBlack"
+			],
+			[
+				"text_layer_set_text",
+				"text_layer_set_text_color"
+			],
+			[
+				"GColor",
+				"GColorClear"
+			],
+			[
+				"avg_dur",
+				"avg_duration_tl"
+			],
+			[
+				"text_layer_set",
+				"text_layer_set_text_alignment"
+			],
+			[
+				"avg_interva",
+				"avg_interval_tl"
+			],
+			[
+				"avg_interval",
+				"avg_interval_tl"
+			],
+			[
+				"avg_interv",
+				"avg_interval_tl"
+			],
+			[
+				"text_la",
+				"text_layer_get_layer"
+			],
+			[
+				"avg_inter",
+				"avg_interval_str"
+			],
+			[
+				"avg_",
+				"avg_interval_tl"
+			],
+			[
+				"text_layer_",
+				"text_layer_get_layer"
+			],
+			[
+				"labors",
+				"labors_list"
+			],
+			[
+				"menu_la",
+				"simple_menu_layer_destroy"
+			],
+			[
+				"log",
+				"log_window_unload"
+			],
+			[
+				"action_bar_l",
+				"action_bar_layer_set_click_config_provider"
+			],
+			[
+				"action_",
+				"action_bar_layer_add_to_window"
+			],
+			[
+				"menu_layer_set_",
+				"menu_layer_set_click_config_onto_window"
+			],
+			[
+				"MenuL",
+				"MenuLayerCallbacks"
+			],
+			[
+				"labor",
+				"labor_count"
+			],
+			[
+				"cell",
+				"cell_layer"
+			],
+			[
+				"lab",
+				"labor_count"
+			],
+			[
+				"window_get",
+				"window_get_root_layer"
+			],
+			[
+				"text_La",
+				"text_layer_set_text"
+			],
+			[
+				"LOG",
+				"APP_LOG_LEVEL_ERROR"
+			],
+			[
+				"loca",
+				"locationError"
+			],
+			[
+				"app_message_outbox_",
+				"app_message_outbox_size_maximum"
+			],
+			[
+				"app_message_",
+				"app_message_inbox_size_maximum"
+			],
+			[
+				"app_message_register",
+				"app_message_register_outbox_sent"
+			],
+			[
+				"app_message_register_",
+				"app_message_register_outbox_failed"
+			],
+			[
+				"app_message_register_in",
+				"app_message_register_inbox_dropped"
+			],
+			[
+				"s_tim",
+				"s_time_font"
+			],
+			[
+				"s_",
+				"s_time_layer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "appinfo.json",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/pebble-js-app.js",
+			"settings":
+			{
+				"buffer_size": 1249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Dem Oratorium liegen Werke aus dem Alten Testament zugrunde, dessen kraftvolle Heldengestalten Händel immer wieder faszinierten und zu umfangreichen Werken animierten. Seine Zeitgenossen konnten sich mit diesen spannungsvoll dargestellten Lebensläufen indentifizieren, mit einer Musik, die trotz der sakralen Grundlage eher zum Theater tendiert. Dem Chor fallen im „Joshua“ reichhaltige Aufgaben, vom farbigen Orchesterklang überhöht, zu. Hier wird deutlich, wie das alte Volk Israel durch Krieg, Klage, Jubel und Gebete politisches Geschehen mit religiösem verbindet und mit der Erinnerung an legendäre Wundertaten lebt. Zu den klanglichen Höhepunkten gehört auch der berühmte Weihnachtschor „Tochter Zion“, erst zart vom Frauenchor gesungen, abgeschlossen mit einer Tuttisteigerung vom vollen Chor und Orchester. Eingefügt ist aber auch die reizende Liebesgeschichte zwischen Achsah und Othniel, der sich lieber mit seiner Angebeteten trifft, als in die Schlacht zu ziehen.\n\n\nText von Thomas Morell nach alttestamentlichen Büchern Joshua und Richter.\nUraufführung in London im März 1748 Die Solisten stellen folgende Personen dar:\n\nSopran: Achsah, Geliebte des Othniel\nCountertenor: Othniel, Heerführer\nTenor I: Joshua, Nachfolger von Moses\nTenor II: Engel\nBass: Kaleb, Vater der Achsah",
+			"settings":
+			{
+				"buffer_size": 1288,
+				"line_ending": "Unix",
+				"name": "Dem Oratorium liegen Werke aus dem Alten Testament"
+			}
+		},
+		{
+			"file": "/home/hannenz/Unichor_WS_2014_15/Programmheft/Text/joshua.txt",
+			"settings":
+			{
+				"buffer_size": 12756,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/UlmBus.c",
+			"settings":
+			{
+				"buffer_size": 3095,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Pebble/Pebble.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Pebble: Install"
+			],
+			[
+				"pe",
+				"Pebble: Build"
+			],
+			[
+				"pebb",
+				"Pebble: Build"
+			],
+			[
+				"pebbl",
+				"Pebble: Build"
+			],
+			[
+				"",
+				"Build: PebbleBuild"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hannenz/UlmBus",
+		"/home/hannenz/UlmBus/resources",
+		"/home/hannenz/UlmBus/src",
+		"/home/hannenz/UlmBus/src/js"
+	],
+	"file_history":
+	[
+		"/home/hannenz/.cache/.fr-aeHnzr/index.xml",
+		"/media/wind-www/bayerntrips/fileadmin/FullCalendar/myCalSettings.js",
+		"/home/hannenz/calendar_dates.csv",
+		"/home/hannenz/fetalmon/src/graph_window.c",
+		"/home/hannenz/fetalmon/src/timer_window.c",
+		"/home/hannenz/.cache/.fr-4nKB6Y/NVBWFp2012Main.js",
+		"/home/hannenz/.cache/.fr-68NsQc/NVBWFp2012Var.js",
+		"/home/hannenz/.cache/.fr-Qw5OO6/NVBWFp2012Opt.js",
+		"/home/hannenz/fetalmon/src/fetalmon.c",
+		"/home/hannenz/fetalmon/src/fetalmon.h",
+		"/home/hannenz/fetalmon/src/intensity_window.c",
+		"/home/hannenz/fetalmon/src/log_window.c",
+		"/home/hannenz/fetalmon/src/main_window.c",
+		"/home/hannenz/.cache/.fr-gofXRb/NVBWFp2012Main.js",
+		"/media/wind-share/Jobs/Bayerntrips/SEO/todo",
+		"/home/hannenz/pebble_tutorial1/src/weather.js",
+		"/home/hannenz/pebble_tutorial1/src/pebble_tutorial1.c",
+		"/home/hannenz/60x42 fläche",
+		"/home/hannenz/.cache/.fr-mMN2rM/tutorial_1/appinfo.json",
+		"/home/hannenz/pebble_tutorial1/appinfo.json",
+		"/home/hannenz/.cache/.fr-063698/tutorial_1/wscript",
+		"/home/hannenz/.cache/.fr-PKn2Zv/tutorial_1/appinfo.json",
+		"/home/hannenz/.cache/.fr-Tf88RR/tutorial_1/wscript",
+		"/home/hannenz/.cache/.fr-jpcdpu/tutorial_1/appinfo.json",
+		"/home/hannenz/pebble_tutorial1/jshintrc",
+		"/home/hannenz/.cache/.fr-KaAcx7/tutorial_1/wscript",
+		"/home/hannenz/.cache/.fr-bK6Q1Q/tutorial_1/appinfo.json",
+		"/opt/sublime_text/changelog.txt"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Niderlage",
+			"xxxxxx",
+			"^(\\w+:)",
+			"^\\w+:",
+			"var",
+			"['departures'][j]",
+			"route_short_name",
+			"#define",
+			"lat2",
+			"lat1",
+			"st",
+			",1",
+			"getPage",
+			"g_updateserver\\",
+			"g_updateserver",
+			"updateserver",
+			"updateServer",
+			"xmlHttpReq",
+			"#define",
+			"90",
+			"86",
+			"102",
+			"110",
+			"92",
+			"AVG_DURATION",
+			"*",
+			"tl4",
+			"avg_duration_tl",
+			"tl4",
+			"tl3",
+			"avg_duration_tl",
+			"snprintf",
+			"now_t",
+			"GRECT",
+			"interval",
+			"(int)",
+			"(double)",
+			"double",
+			"static",
+			"main",
+			"log_window",
+			"is_",
+			"() ",
+			"snprint",
+			"mktime",
+			"cbacks.",
+			"[0]",
+			"begin.",
+			"->",
+			"end.",
+			"begin.",
+			" ",
+			"layer_get_frame(cell_layer)",
+			"addEventListener",
+			".js",
+			"outbox_failed_calback"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"xxxxxx$1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "appinfo.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/pebble-js-app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1133,
+								1133
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Dem Oratorium liegen Werke aus dem Alten Testament",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/hannenz/Unichor_WS_2014_15/Programmheft/Text/joshua.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/UlmBus.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "UlmBus.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
